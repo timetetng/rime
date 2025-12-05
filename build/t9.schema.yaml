@@ -1,14 +1,14 @@
 __build_info:
   rime_version: 1.14.0
   timestamps:
-    default: 1764914882
+    default: 1764922598
     default.custom: 0
-    rime_ice.custom: 1764914427
-    rime_ice.schema: 1764914295
-    symbols_v: 1764914295
+    rime_ice.custom: 1764922598
+    rime_ice.schema: 1764922598
+    symbols_v: 1764922598
     symbols_v.custom: 0
     t9.custom: 0
-    t9.schema: 1764914295
+    t9.schema: 1764922598
 cn_en:
   comment_format:
     - "xform/^.+$//"
