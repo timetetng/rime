@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.14.0
   timestamps:
-    default: 1764922598
+    default: 1764924134
     default.custom: 0
 ascii_composer:
   good_old_caps_lock: true
@@ -120,15 +120,7 @@ recognizer:
     underscore: "^[A-Za-z]+_.*"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 schema_list:
-  - schema: rime_ice
-  - schema: t9
-  - schema: double_pinyin
-  - schema: double_pinyin_abc
-  - schema: double_pinyin_mspy
-  - schema: double_pinyin_sogou
   - schema: double_pinyin_flypy
-  - schema: double_pinyin_ziguang
-  - schema: double_pinyin_jiajia
 switcher:
   abbreviate_options: true
   caption: "「方案选单」"
